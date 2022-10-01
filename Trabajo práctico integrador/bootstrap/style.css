@@ -1,0 +1,59 @@
+.ncolortext {
+    color:rgba(139, 0, 139, 0.658)
+}
+
+.img-text-container-fluid {
+    position: relative;
+  }
+
+
+
+
+.inner {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: rgba(41, 38, 41, 0.753);
+    color: rgb(85, 0, 85);
+    padding: 25px;
+   
+  }
+
+  .colm6{
+    height: 33px;
+  }
+
+  
+.mybtn {
+background-color: indigo;
+}
+
+.bjs {
+    background-color:#f0da4f;
+}
+
+.br {
+    background-color:#61DBFB;
+}
+
+.bg-alsc {
+    background-color: rgb(54, 38, 52);
+}
+
+
+.mybtn2 {
+background-color:indigo;
+color:indigo
+}
+
+.obtn {
+    background-color: indigo;
+}
+
+
+.cw {
+    height: 80px;
+    background-color: rgba(32, 17, 32, 0.89);
+    
+}
+
